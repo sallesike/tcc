@@ -1,0 +1,58 @@
+.error{
+       color:red
+}
+
+#title-certificate
+{
+	color: blue;
+}
+
+.space
+{
+	text-indent: 100px;
+}
+.signature
+{	
+	height: 350px;
+	padding: 3em;
+}
+
+.img-opacity
+{
+	opacity: 0.1;
+}
+
+.background-image
+{
+	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.4));
+    font-family: 'PT Sans', sans-serif;
+}
+
+.fundo
+{
+	background-image: url("/assets/site/img/logo.png");
+    background-attachment: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    opacity: 0.1;
+	
+
+}
+
+.moldura
+{
+	border:10px inset #5f6632;
+}
+
+.font-certificate
+{
+    font-size: x-large;
+    font-family: all;
+}
+
+

@@ -1,0 +1,24 @@
+.title-pg {
+    font-size: 5em;
+    text-transform: uppercase;
+}
+.letra{
+	font-family: Apple Chancery, cursive;
+	font-size: 30px;
+	text-align: center;	
+}
+
+div.bg{
+	background-color: #bdf0f7;
+	background-image: linear-gradient(to right, rgba(176,224,230), rgba(224,255,255));
+	height:130px;
+	border: 1px solid #fff;
+}
+div.bg1{
+	background-color: #000000;
+	height:5px;
+	border: 1px solid #fff;
+}
+div.altura{
+	height: 1px;
+}
